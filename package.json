@@ -4,8 +4,8 @@
   "description": "Event-driven, Object-oriented Instagram API Wrapper",
   "main": "libs/InstagramStream.js",
   "dependencies": {
-    "connect": "x.x.x",
-    "request": "2.x.x"
+    "connect": "^2.30.2",
+    "request": "^2.62.0"
   },
   "devDependencies": {
     "mocha": "1.x.x",
